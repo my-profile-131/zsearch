@@ -2,7 +2,6 @@
 
 A modern and lightweight Browser App built with Flutter. This project demonstrates how to create a custom browser interface with WebView integration, quick-access shortcuts, and a clean user experience.
 
-![Flutter Browser App Banner](assets/banner.png)
 
 ## Features
 
@@ -11,14 +10,7 @@ A modern and lightweight Browser App built with Flutter. This project demonstrat
 *  Quick Access Shortcuts
 *  Clean & Modern UI
 *  Private Browser Experience
-*  Responsive Design
 *  Beginner-Friendly Flutter Project
-
-##  Screenshots
-
-| Home Screen              |
-| ------------------------ |
-| Add your screenshot here |
 
 ##  Tech Stack
 
